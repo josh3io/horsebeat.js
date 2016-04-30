@@ -1,6 +1,6 @@
 {
   "name": "horsebeat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "beats a dead horse by calling a function repeatedly",
   "main": "index.js",
   "scripts": {
