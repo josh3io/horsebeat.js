@@ -1,0 +1,27 @@
+{
+  "name": "horsebeat",
+  "version": "1.0.0",
+  "description": "beats a dead horse by calling a function repeatedly",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/josh3io/horsebeat.js.git"
+  },
+  "keywords": [
+    "beat",
+    "horsebeat.js"
+  ],
+  "author": "Josh Goldberg <josh@3io.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josh3io/horsebeat.js/issues"
+  },
+  "homepage": "https://github.com/josh3io/horsebeat.js#readme",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "mocha": "^2.4.5"
+  }
+}
