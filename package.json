@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/josh3io/horsebeat.js#readme",
   "dependencies": {
-    "bluebird": "^3.3.5",
+    "bluebird": "^3.3.5"
+  },
+  "devDependencies": {
     "mocha": "^2.4.5"
   }
 }
